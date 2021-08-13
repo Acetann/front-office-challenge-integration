@@ -13,3 +13,9 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Roboto', monospace;
 }
+
+.header {
+  display: flex;
+  justify-content: center;
+  background-color: #a9a9a9;
+}
